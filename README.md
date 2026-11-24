@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/73793205-90f4-4334-a75b-1f5b0b069eac
-
 # 🎬 Vertical Video Studio PRO — Procedural Motion & FFmpeg Engine
 
 Десктопный видеоредактор и процедурный motion-движок на **Python + PyQt5 + QPainter + FFmpeg + Whisper** для быстрой сборки вертикальных видео (**1080×1920 @ 30 FPS**) без ручного монтажа рутинных плашек и переходов.
